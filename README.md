@@ -9,7 +9,6 @@
 ### 👩‍💻 About Me
 
 * 🎓 First-year Computer Science Engineering student at **St Joseph's College of Engineering, Chennai**.
-* 🎓 What I Study: Pursuing a Bachelor of Engineering (B.E.) in Computer Science and Engineering at St. Joseph's College of Engineering, Chennai.
 * 🔭 Currently exploring **AI, prompt engineering, and building real-world project prototypes**.
 * 🛠️ Passionate about turning problem statements into working solutions, from civic tech to disaster response.
 * 🌱 Learning **Python, web development, and core CS fundamentals** one project at a time.
