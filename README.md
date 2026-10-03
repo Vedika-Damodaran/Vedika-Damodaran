@@ -2,7 +2,6 @@
 ### CSE Undergrad | Exploring AI & Prompt Engineering | Building Practical Projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedika-damodaran-743a94416)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vedika-Damodaran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vedika.d.official@gmail.com)
 
 ---
